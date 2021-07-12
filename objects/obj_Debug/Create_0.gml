@@ -2,7 +2,7 @@ globalvar debug;
 globalvar work_offline;
 globalvar log;
 //Show or not debug tools
-debug = false;
+debug = true; // Test Change
 work_offline = true;
 log = false
 
