@@ -118,7 +118,6 @@ if(inst_transi != noone){
 	spawn_room		= inst_transi.target_room;
 	spawn_dir		= inst_transi.target_dir;
 	
-	show_debug_message(inst_transi.door_animation);
 	
 	if(inst_transi.door_animation != noone){
 		inst_transi.door_animation.play_animation = true;
