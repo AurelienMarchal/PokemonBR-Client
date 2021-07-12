@@ -1,0 +1,1 @@
+player_to_follow = noone;
