@@ -41,6 +41,7 @@
     {"id":{"name":"spr_bc_team_preview_red","path":"sprites/spr_bc_team_preview_red/spr_bc_team_preview_red.yy",},"order":5,},
     {"id":{"name":"spr_bc_team_preview_fainted","path":"sprites/spr_bc_team_preview_fainted/spr_bc_team_preview_fainted.yy",},"order":7,},
     {"id":{"name":"ts_Outside","path":"tilesets/ts_Outside/ts_Outside.yy",},"order":1,},
+    {"id":{"name":"room_RoadF","path":"rooms/room_RoadF/room_RoadF.yy",},"order":9,},
     {"id":{"name":"ts_Interior","path":"tilesets/ts_Interior/ts_Interior.yy",},"order":3,},
     {"id":{"name":"spt_Player_data","path":"scripts/spt_Player_data/spt_Player_data.yy",},"order":5,},
     {"id":{"name":"spt_Movement","path":"scripts/spt_Movement/spt_Movement.yy",},"order":0,},
@@ -95,6 +96,7 @@
     {"roomId":{"name":"room_Lake","path":"rooms/room_Lake/room_Lake.yy",},},
     {"roomId":{"name":"room_Rock","path":"rooms/room_Rock/room_Rock.yy",},},
     {"roomId":{"name":"room_PortBeach","path":"rooms/room_PortBeach/room_PortBeach.yy",},},
+    {"roomId":{"name":"room_RoadF","path":"rooms/room_RoadF/room_RoadF.yy",},},
   ],
   "Folders": [
     {"folderPath":"folders/Sprites.yy","order":1,"resourceVersion":"1.0","name":"Sprites","tags":[],"resourceType":"GMFolder",},
