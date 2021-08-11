@@ -1,0 +1,21 @@
+Manque sur room_Rock :
+- Le lien vers room_Museum
+- Le lien vers room_SandCave
+- Le lien vers room_Jungle
+- Les spawning zones
+
+Manque sur room_RoadF :
+- Régler la transition Sud
+
+Manque sur room_PortBeach :
+- Les spawning zones
+- Régler des transitions
+- Le lien vers room_Jungle
+- Le lien vers room_Fairy
+
+Manque sur room_Fly :
+- Tout
+
+Manque sur room_Fire_Fight :
+- Régler la transition
+- Le lien vers room_Volcano
