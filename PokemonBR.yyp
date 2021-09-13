@@ -42,7 +42,6 @@
     {"id":{"name":"spr_bc_team_preview_red","path":"sprites/spr_bc_team_preview_red/spr_bc_team_preview_red.yy",},"order":5,},
     {"id":{"name":"spr_bc_team_preview_fainted","path":"sprites/spr_bc_team_preview_fainted/spr_bc_team_preview_fainted.yy",},"order":7,},
     {"id":{"name":"ts_Outside","path":"tilesets/ts_Outside/ts_Outside.yy",},"order":1,},
-    {"id":{"name":"Note1","path":"notes/Note1/Note1.yy",},"order":0,},
     {"id":{"name":"room_RoadF","path":"rooms/room_RoadF/room_RoadF.yy",},"order":9,},
     {"id":{"name":"ts_Interior","path":"tilesets/ts_Interior/ts_Interior.yy",},"order":3,},
     {"id":{"name":"spt_Player_data","path":"scripts/spt_Player_data/spt_Player_data.yy",},"order":5,},
@@ -55,7 +54,6 @@
     {"id":{"name":"spt_Remove_player","path":"scripts/spt_Remove_player/spt_Remove_player.yy",},"order":4,},
     {"id":{"name":"obj_Debug","path":"objects/obj_Debug/obj_Debug.yy",},"order":1,},
     {"id":{"name":"spr_door5","path":"sprites/spr_door5/spr_door5.yy",},"order":4,},
-    {"id":{"name":"room_Fight_Fire","path":"rooms/room_Fight_Fire/room_Fight_Fire.yy",},"order":11,},
     {"id":{"name":"obj_SpawningZone_1","path":"objects/obj_SpawningZone_1/obj_SpawningZone_1.yy",},"order":9,},
     {"id":{"name":"obj_Chat","path":"objects/obj_Chat/obj_Chat.yy",},"order":3,},
     {"id":{"name":"obj_Network","path":"objects/obj_Network/obj_Network.yy",},"order":5,},
@@ -101,7 +99,6 @@
     {"roomId":{"name":"room_PortBeach","path":"rooms/room_PortBeach/room_PortBeach.yy",},},
     {"roomId":{"name":"room_RoadF","path":"rooms/room_RoadF/room_RoadF.yy",},},
     {"roomId":{"name":"room_Fly","path":"rooms/room_Fly/room_Fly.yy",},},
-    {"roomId":{"name":"room_Fight_Fire","path":"rooms/room_Fight_Fire/room_Fight_Fire.yy",},},
   ],
   "Folders": [
     {"folderPath":"folders/Sprites.yy","order":1,"resourceVersion":"1.0","name":"Sprites","tags":[],"resourceType":"GMFolder",},

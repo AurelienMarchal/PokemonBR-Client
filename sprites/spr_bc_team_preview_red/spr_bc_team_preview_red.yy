@@ -67,6 +67,7 @@
   "layers": [
     {"visible":true,"isLocked":false,"blendMode":0,"opacity":100.0,"displayName":"default","resourceVersion":"1.0","name":"e45c7397-b2f6-425b-a17c-d79ca45bbe83","tags":[],"resourceType":"GMImageLayer",},
   ],
+  "nineSlice": null,
   "parent": {
     "name": "TeamPreview",
     "path": "folders/Sprites/GUI/Pokemon/TeamPreview.yy",
