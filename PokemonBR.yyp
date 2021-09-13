@@ -64,6 +64,7 @@
     {"id":{"name":"obj_Battle","path":"objects/obj_Battle/obj_Battle.yy",},"order":1,},
     {"id":{"name":"spr_door11","path":"sprites/spr_door11/spr_door11.yy",},"order":10,},
     {"id":{"name":"obj_RoomTransition","path":"objects/obj_RoomTransition/obj_RoomTransition.yy",},"order":0,},
+    {"id":{"name":"spr_boy_surf","path":"sprites/spr_boy_surf/spr_boy_surf.yy",},"order":4,},
     {"id":{"name":"spr_RoomTransition_1","path":"sprites/spr_RoomTransition_1/spr_RoomTransition_1.yy",},"order":8,},
     {"id":{"name":"obj_Collision","path":"objects/obj_Collision/obj_Collision.yy",},"order":1,},
     {"id":{"name":"spr_door6","path":"sprites/spr_door6/spr_door6.yy",},"order":5,},
