@@ -49,6 +49,7 @@ sprite = "boy";
 
 sprite_walk		= spr_boy_walk;
 sprite_run		= spr_boy_run;
+sprite_surf		= spr_boy_surf;
 
 x_offset	= 0;
 y_offset	= 16;
