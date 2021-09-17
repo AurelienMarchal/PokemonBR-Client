@@ -48,6 +48,7 @@
     {"id":{"name":"spt_Movement","path":"scripts/spt_Movement/spt_Movement.yy",},"order":0,},
     {"id":{"name":"room_Lake","path":"rooms/room_Lake/room_Lake.yy",},"order":6,},
     {"id":{"name":"spt_Message","path":"scripts/spt_Message/spt_Message.yy",},"order":1,},
+    {"id":{"name":"room_Fly","path":"rooms/room_Fly/room_Fly.yy",},"order":14,},
     {"id":{"name":"spt_Room_data","path":"scripts/spt_Room_data/spt_Room_data.yy",},"order":2,},
     {"id":{"name":"spt_Connect","path":"scripts/spt_Connect/spt_Connect.yy",},"order":3,},
     {"id":{"name":"room_Fight_Fire","path":"rooms/room_Fight_Fire/room_Fight_Fire.yy",},"order":11,},
@@ -99,6 +100,7 @@
     {"roomId":{"name":"room_Fight_Fire","path":"rooms/room_Fight_Fire/room_Fight_Fire.yy",},},
     {"roomId":{"name":"room_Jungle","path":"rooms/room_Jungle/room_Jungle.yy",},},
     {"roomId":{"name":"room_0_Empty","path":"rooms/room_0_Empty/room_0_Empty.yy",},},
+    {"roomId":{"name":"room_Fly","path":"rooms/room_Fly/room_Fly.yy",},},
   ],
   "Folders": [
     {"folderPath":"folders/Sprites.yy","order":1,"resourceVersion":"1.0","name":"Sprites","tags":[],"resourceType":"GMFolder",},
