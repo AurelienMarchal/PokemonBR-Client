@@ -16,7 +16,7 @@
     {"instances":[],"visible":true,"depth":0,"userdefinedDepth":false,"inheritLayerDepth":false,"inheritLayerSettings":false,"gridX":32,"gridY":32,"layers":[],"hierarchyFrozen":false,"resourceVersion":"1.0","name":"Instances","tags":[],"resourceType":"GMRInstanceLayer",},
     {"instances":[
         {"properties":[],"isDnd":false,"objectId":{"name":"obj_RoomTransition","path":"objects/obj_RoomTransition/obj_RoomTransition.yy",},"inheritCode":false,"hasCreationCode":true,"colour":4294967295,"rotation":0.0,"scaleX":1.0,"scaleY":1.0,"imageIndex":0,"imageSpeed":1.0,"inheritedItemId":null,"frozen":false,"ignore":false,"inheritItemSettings":false,"x":608.0,"y":32.0,"resourceVersion":"1.0","name":"tp_mapRockSouthEast","tags":[],"resourceType":"GMRInstance",},
-        {"properties":[],"isDnd":false,"objectId":{"name":"obj_RoomTransition","path":"objects/obj_RoomTransition/obj_RoomTransition.yy",},"inheritCode":false,"hasCreationCode":true,"colour":4294967295,"rotation":0.0,"scaleX":1.0,"scaleY":1.0,"imageIndex":0,"imageSpeed":1.0,"inheritedItemId":null,"frozen":false,"ignore":false,"inheritItemSettings":false,"x":704.0,"y":992.0,"resourceVersion":"1.0","name":"room_fly_modif","tags":[],"resourceType":"GMRInstance",},
+        {"properties":[],"isDnd":false,"objectId":{"name":"obj_RoomTransition","path":"objects/obj_RoomTransition/obj_RoomTransition.yy",},"inheritCode":false,"hasCreationCode":true,"colour":4294967295,"rotation":0.0,"scaleX":1.0,"scaleY":1.0,"imageIndex":0,"imageSpeed":1.0,"inheritedItemId":null,"frozen":false,"ignore":false,"inheritItemSettings":false,"x":704.0,"y":992.0,"resourceVersion":"1.0","name":"tp_mapFlyNorth","tags":[],"resourceType":"GMRInstance",},
       ],"visible":true,"depth":100,"userdefinedDepth":false,"inheritLayerDepth":false,"inheritLayerSettings":false,"gridX":32,"gridY":32,"layers":[],"hierarchyFrozen":false,"resourceVersion":"1.0","name":"RoomTransition","tags":[],"resourceType":"GMRInstanceLayer",},
     {"instances":[],"visible":false,"depth":200,"userdefinedDepth":false,"inheritLayerDepth":false,"inheritLayerSettings":false,"gridX":32,"gridY":32,"layers":[],"hierarchyFrozen":false,"resourceVersion":"1.0","name":"SpawningZone","tags":[],"resourceType":"GMRInstanceLayer",},
     {"instances":[
@@ -516,7 +516,7 @@
     {"name":"inst_58D9EE51","path":"rooms/room_RoadF/room_RoadF.yy",},
     {"name":"inst_2434E963","path":"rooms/room_RoadF/room_RoadF.yy",},
     {"name":"inst_4056F7BE","path":"rooms/room_RoadF/room_RoadF.yy",},
-    {"name":"room_fly_modif","path":"rooms/room_RoadF/room_RoadF.yy",},
+    {"name":"tp_mapFlyNorth","path":"rooms/room_RoadF/room_RoadF.yy",},
   ],
   "inheritCreationOrder": false,
   "sequenceId": null,
