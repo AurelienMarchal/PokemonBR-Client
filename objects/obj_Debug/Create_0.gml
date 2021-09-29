@@ -2,7 +2,9 @@ globalvar debug;
 globalvar work_offline;
 globalvar log;
 //Show or not debug tools
-debug = true; // Test Changes
+
+debug = false; // Test Changes branch Aure 2         
+
 work_offline = true;
 log = false
 
