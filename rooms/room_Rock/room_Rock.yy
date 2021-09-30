@@ -17,7 +17,9 @@
     {"instances":[
         {"properties":[],"isDnd":false,"objectId":{"name":"obj_RoomTransition","path":"objects/obj_RoomTransition/obj_RoomTransition.yy",},"inheritCode":false,"hasCreationCode":true,"colour":4294967295,"rotation":0.0,"scaleX":1.0,"scaleY":1.0,"imageIndex":0,"imageSpeed":1.0,"inheritedItemId":null,"frozen":false,"ignore":false,"inheritItemSettings":false,"x":352.0,"y":320.0,"resourceVersion":"1.0","name":"tp_intraMap1","tags":[],"resourceType":"GMRInstance",},
         {"properties":[],"isDnd":false,"objectId":{"name":"obj_RoomTransition","path":"objects/obj_RoomTransition/obj_RoomTransition.yy",},"inheritCode":false,"hasCreationCode":true,"colour":4294967295,"rotation":0.0,"scaleX":1.0,"scaleY":1.0,"imageIndex":0,"imageSpeed":1.0,"inheritedItemId":null,"frozen":false,"ignore":false,"inheritItemSettings":false,"x":1376.0,"y":736.0,"resourceVersion":"1.0","name":"tp_intraMap2","tags":[],"resourceType":"GMRInstance",},
-        {"properties":[],"isDnd":false,"objectId":{"name":"obj_RoomTransition","path":"objects/obj_RoomTransition/obj_RoomTransition.yy",},"inheritCode":false,"hasCreationCode":true,"colour":4294967295,"rotation":0.0,"scaleX":1.0,"scaleY":1.0,"imageIndex":0,"imageSpeed":1.0,"inheritedItemId":null,"frozen":false,"ignore":false,"inheritItemSettings":false,"x":2208.0,"y":2976.0,"resourceVersion":"1.0","name":"tp_mapRoadFNorth","tags":[],"resourceType":"GMRInstance",},
+        {"properties":[],"isDnd":false,"objectId":{"name":"obj_RoomTransition","path":"objects/obj_RoomTransition/obj_RoomTransition.yy",},"inheritCode":false,"hasCreationCode":true,"colour":4294967295,"rotation":0.0,"scaleX":1.0,"scaleY":1.0,"imageIndex":0,"imageSpeed":1.0,"inheritedItemId":null,"frozen":false,"ignore":false,"inheritItemSettings":false,"x":2208.0,"y":2976.0,"resourceVersion":"1.0","name":"tp_RoadFNorth","tags":[],"resourceType":"GMRInstance",},
+        {"properties":[],"isDnd":false,"objectId":{"name":"obj_RoomTransition","path":"objects/obj_RoomTransition/obj_RoomTransition.yy",},"inheritCode":false,"hasCreationCode":true,"colour":4294967295,"rotation":0.0,"scaleX":1.0,"scaleY":1.0,"imageIndex":0,"imageSpeed":1.0,"inheritedItemId":null,"frozen":false,"ignore":false,"inheritItemSettings":false,"x":192.0,"y":64.0,"resourceVersion":"1.0","name":"SANDCAVEEAST_MODIF","tags":[],"resourceType":"GMRInstance",},
+        {"properties":[],"isDnd":false,"objectId":{"name":"obj_RoomTransition","path":"objects/obj_RoomTransition/obj_RoomTransition.yy",},"inheritCode":false,"hasCreationCode":true,"colour":4294967295,"rotation":0.0,"scaleX":1.0,"scaleY":1.0,"imageIndex":0,"imageSpeed":1.0,"inheritedItemId":null,"frozen":false,"ignore":false,"inheritItemSettings":false,"x":672.0,"y":2816.0,"resourceVersion":"1.0","name":"tp_JungleNorth","tags":[],"resourceType":"GMRInstance",},
       ],"visible":true,"depth":100,"userdefinedDepth":false,"inheritLayerDepth":false,"inheritLayerSettings":false,"gridX":32,"gridY":32,"layers":[],"hierarchyFrozen":false,"resourceVersion":"1.0","name":"RoomTransition","tags":[],"resourceType":"GMRInstanceLayer",},
     {"instances":[],"visible":false,"depth":200,"userdefinedDepth":false,"inheritLayerDepth":false,"inheritLayerSettings":false,"gridX":32,"gridY":32,"layers":[],"hierarchyFrozen":false,"resourceVersion":"1.0","name":"SpawningZone","tags":[],"resourceType":"GMRInstanceLayer",},
     {"instances":[
@@ -1355,7 +1357,7 @@
   "instanceCreationOrder": [
     {"name":"tp_intraMap1","path":"rooms/room_Rock/room_Rock.yy",},
     {"name":"tp_intraMap2","path":"rooms/room_Rock/room_Rock.yy",},
-    {"name":"tp_mapRoadFNorth","path":"rooms/room_Rock/room_Rock.yy",},
+    {"name":"tp_RoadFNorth","path":"rooms/room_Rock/room_Rock.yy",},
     {"name":"inst_1FAF4160","path":"rooms/room_Rock/room_Rock.yy",},
     {"name":"inst_7D1CE57D","path":"rooms/room_Rock/room_Rock.yy",},
     {"name":"inst_151F4607","path":"rooms/room_Rock/room_Rock.yy",},
@@ -1521,6 +1523,8 @@
     {"name":"inst_21346C6E","path":"rooms/room_Rock/room_Rock.yy",},
     {"name":"inst_7A8DFD86","path":"rooms/room_Rock/room_Rock.yy",},
     {"name":"inst_24E6A0DB","path":"rooms/room_Rock/room_Rock.yy",},
+    {"name":"SANDCAVEEAST_MODIF","path":"rooms/room_Rock/room_Rock.yy",},
+    {"name":"tp_JungleNorth","path":"rooms/room_Rock/room_Rock.yy",},
   ],
   "inheritCreationOrder": false,
   "sequenceId": null,
