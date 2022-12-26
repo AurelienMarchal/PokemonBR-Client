@@ -1,21 +1,50 @@
-Manque sur room_Rock :
-- Le lien vers room_Museum
-- Le lien vers room_SandCave
-- Le lien vers room_Jungle
-- Les spawning zones
-
-Manque sur room_RoadF :
-- Régler la transition Sud
-
-Manque sur room_PortBeach :
-- Les spawning zones
-- Régler des transitions
-- Le lien vers room_Jungle
-- Le lien vers room_Fairy
-
-Manque sur room_Fly :
-- Tout
-
-Manque sur room_Fire_Fight :
-- Régler la transition
-- Le lien vers room_Volcano
+BigCity :
+	Faire de A à Z (maps, intramaps, liens, collisions, events)
+Center :
+	Faire de A à Z (maps, intramaps, liens, collisions, events)
+DarkCave :
+	Faire de A à Z (maps, intramaps, liens, collisions, events)
+DarkForest :
+	Faire de A à Z (maps, intramaps, liens, collisions, events)
+Darkness :
+	Faire de A à Z (maps, intramaps, liens, collisions, events)
+Fairy :
+	Faire de A à Z (maps, intramaps, liens, collisions, events)
+Fight_Fire :
+	Finir maps, intramaps, liens, collisions
+FlowerHill :
+	Faire de A à Z (maps, intramaps, liens, collisions, events)
+Fly :
+	Finir maps, intramaps, collisions, events
+Forest :
+	Faire de A à Z (maps, intramaps, liens, collisions, events)
+FrozenCave :
+	Faire de A à Z (maps, intramaps, liens, collisions, events)
+Jungle :
+	Finir maps, intramaps, collisions, events
+Lake :
+	tp_RoadN, tp_CaveX, SurfableWater
+MineCity :
+	Faire de A à Z (maps, intramaps, liens, collisions, events)
+Peak :
+	Faire de A à Z (maps, intramaps, liens, collisions, events)
+PhantomPark :
+	Faire de A à Z (maps, intramaps, liens, collisions, events)
+Plains :
+	Faire de A à Z (maps, intramaps, liens, collisions, events)
+Poison :
+	Faire de A à Z (maps, intramaps, liens, collisions, events)
+PortBeach :
+	tp_Fairy, Spawnpoints
+Psy :
+	Faire de A à Z (maps, intramaps, liens, collisions, events)
+RoadF :
+	Spawnpoints, SurfableWater
+RoadN :
+	Faire de A à Z (maps, intramaps, liens, collisions, events)
+RoadS :
+	Faire de A à Z (maps, intramaps, liens, collisions, events)
+RoadW :
+	Faire de A à Z (maps, intramaps, liens, collisions, events)
+room_Rock :
+	tp_Museum, Spawnpoints
